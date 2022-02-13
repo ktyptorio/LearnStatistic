@@ -1,4 +1,4 @@
-# Learn Statistics - Hands-On with Python
+# Statistics - Hands-On with Python
 
 Download dataset: https://www.kaggle.com/ktyptorio/football-manager-2020
 
